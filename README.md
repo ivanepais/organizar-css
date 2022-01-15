@@ -1,2 +1,2 @@
-# organizar-css
-En los proyectos grandes, las hojas de estilos son enormes y representan un desafio mantenerlas. El objetivo es buenas practicas, convenciones de nomenclatura para organizar y mantener el CSS.
+# Organizar CSS
+Para organizar el CSS tenemos varios metodos y herramientas. Necesitamos una guía de estilo para nuestro CSS y respetarla para y ser constante al aplicarla. Existen varios metodos de estilo para lograrlo, como el metodo OOCSS, BEM, SMACSS, ITCSS, Atomic CSS, etc.Tambien podemos construir un sistema con preprocesadores y postprocesadores que convierten archivos en una hoja de estilo y optimizan las mismas.
